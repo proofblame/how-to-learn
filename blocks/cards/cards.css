@@ -5,4 +5,6 @@
     margin: 0 auto;
     max-width: 920px;
     column-gap: 100px;
+    list-style-type: none;
+    padding: 0;
 }
